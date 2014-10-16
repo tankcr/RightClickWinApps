@@ -1,0 +1,8 @@
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Release\RightClickWinApps.exe.config
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Release\RightClickWinApps.exe
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Release\RightClickWinApps.pdb
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.Form1.resources
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.Properties.Resources.resources
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.csproj.GenerateResource.Cache
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.exe
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.pdb

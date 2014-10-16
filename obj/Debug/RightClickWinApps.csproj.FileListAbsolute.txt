@@ -1,0 +1,9 @@
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Debug\RightClickWinApps.exe.config
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Debug\RightClickWinApps.Form1.resources
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Debug\RightClickWinApps.Properties.Resources.resources
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Debug\RightClickWinApps.csproj.GenerateResource.Cache
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Debug\RightClickWinApps.exe
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Debug\RightClickWinApps.pdb
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Debug\RightClickWinApps.exe
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Debug\RightClickWinApps.pdb
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Debug\RightClickWinApps.csprojResolveAssemblyReference.cache
