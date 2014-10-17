@@ -9,3 +9,8 @@ D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.pdb
 D:\Code\RightClickWinApps\RightClickWinApps\bin\Release\RightClickWinApps.exe.CodeAnalysisLog.xml
 D:\Code\RightClickWinApps\RightClickWinApps\bin\Release\RightClickWinApps.exe.lastcodeanalysissucceeded
 D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.csprojResolveAssemblyReference.cache
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Release\RightClickWinApps.exe.manifest
+D:\Code\RightClickWinApps\RightClickWinApps\bin\Release\RightClickWinApps.application
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.TrustInfo.xml
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.exe.manifest
+D:\Code\RightClickWinApps\RightClickWinApps\obj\Release\RightClickWinApps.application
